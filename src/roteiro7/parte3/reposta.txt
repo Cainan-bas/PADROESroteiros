@@ -1,0 +1,5 @@
+
+8 - Relacionando com o metodo factory, a classe abstrata Banco esta desemplenhando o papel de creator, as classes BancoBrasil e BancoCaixa são as ConcreteCreator, a classe Boleto
+o papel de Product e as classes BoletoCaixa10Dias, BoletoBrasil10Dias, entre outras, sendo seus ConcreteProduct. 
+
+Se fosse criado um novo banco, nesse cenario seria necessario apenas a criação de novas classes sem a necessidade de alterar as existentes.
